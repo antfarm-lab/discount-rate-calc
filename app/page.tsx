@@ -63,6 +63,26 @@ export default function Home() {
           リセット
         </button>
       </div>
+      <section className="mt-10 bg-white rounded-xl p-6">
+  <h2 className="text-xl font-bold mb-4">
+    割引率を正確に計算することが重要な理由
+  </h2>
+
+  <p className="mb-3">
+    セール販売や値下げ販売では、感覚ではなく正確な割引率を把握することが重要です。
+    小さな計算ミスが利益減少につながります。
+  </p>
+
+  <p className="mb-3">
+    特に物販では値下げ後の価格設定によって利益率が大きく変わるため、
+    事前計算が必要になります。
+  </p>
+
+  <p>
+    この割引率計算ツールでは元の価格と販売価格から
+    割引率を自動計算できます。
+  </p>
+</section>
       <section className="mt-10 rounded-xl border bg-white p-5">
   <h2 className="mb-3 text-lg font-bold">ほかの便利ツール</h2>
   <div className="grid gap-2 text-sm">
