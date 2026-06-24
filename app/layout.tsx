@@ -13,9 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "割引率計算ツール｜セール価格から割引率を自動計算",
-  description:
-    "通常価格とセール価格を入力するだけで割引率を自動計算できる無料ツール。物販・フリマ・価格設定の確認に便利です。",
+ title: "割引率計算ツール【無料】セール割引を自動計算",
+description:
+  "元の価格と割引後価格から割引率を無料で自動計算。セール価格の確認や仕入れ判断に使えるシンプルな割引計算ツールです。",
+keywords: [
+  "割引率計算",
+  "セール計算",
+  "値引き計算",
+  "割引後価格",
+  "仕入れ判断",
+  "計算ツール",
+],
   verification: {
     google: "miCxwdbgRhGe66W37cjiBB0MFNO1tB2WJxh9Dm_zTjc",
   },
